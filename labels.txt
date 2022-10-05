@@ -1,0 +1,3 @@
+0 Approval
+1 Dissapproval
+2 Neutral
